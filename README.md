@@ -11,4 +11,4 @@ When sending sensitive data to me, please, use [this public key](https://rdner.d
 ### Contacts
 * [denis@rdner.de](mailto:denis@rdner.de)
 * [Telegram](https://telegram.me/den_rdner)
-* [LinkedIn](https://www.linkedin.com/in/rdner)
+* [Most recent CV](https://rdner.de/cv.html)
